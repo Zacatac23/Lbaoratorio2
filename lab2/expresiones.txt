@@ -1,0 +1,8 @@
+(a|t)c
+(a|b)*
+(a*|b*)*
+((e|a)|b*)*
+(a|b)*abb(a|b)*
+07(17)?0*
+if\([ae]+\)[ei]+\(n(eise\[[jl]+\])?
+[ae03]+@[ae03]+.(com|net|org)(.(gt|cr|co))?
